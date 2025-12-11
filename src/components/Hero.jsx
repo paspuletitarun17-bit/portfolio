@@ -22,8 +22,8 @@ const Hero = () => {
             P a d a v a l a &nbsp; T a r u n  <br className='sm:block hidden' />
           </p>
       
-          <email>=>padavalatarun17@gmail.com</email>
-          <p>=> github.com/tarunpadavala</p>
+          <email>padavalatarun17@gmail.com</email>
+          <p>github.com/tarunpadavala</p>
           
         </div>
       </div>
